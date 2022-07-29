@@ -1,2 +1,44 @@
 # Spotify
-A pastel themed spotify
+
+A fork of [orchis](https://github.com/canbeardig/Spicetify-Orchis-Colours-v2) with **Sweetpastel** colors.
+
+## Installation
+
+Requirements:
+
+- [``Spotify >v1.1.56``](https://www.spotify.com/us/download/)
+- [``Spicetify``](https://spicetify.app)
+
+Setup:
+ 
+- Clone this repository
+
+  ```sh
+  git clone https://github.com/SweetPastel/Spotify -b Orchis
+  cd Spotify
+  ```
+  
+- Copy the theme into the themes folder. 
+  
+  Linux / MacOS: 
+  
+  ```sh
+  cp -r SweetPastel ~/.config/spicetify/Themes/
+  ```
+  
+  Windows: 
+  
+  ```sh
+  cp SweetPastel "$(spicetify -c | Split-Path)\Themes\"
+  ```
+
+- Apply the theme
+
+  ```sh
+  spicetify config SweetPastel
+  spicetify apply
+  ```
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/65948476/181686617-1b5de5c2-2f9e-4922-841b-f9b1a95d4344.png)
