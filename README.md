@@ -41,4 +41,4 @@ Setup:
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/65948476/181686617-1b5de5c2-2f9e-4922-841b-f9b1a95d4344.png)
+![image](https://user-images.githubusercontent.com/65948476/182006248-0fe33cd3-a1be-4d8f-a4e2-39ac8cb595eb.png)
