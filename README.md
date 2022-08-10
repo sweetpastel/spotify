@@ -40,3 +40,7 @@ Setup:
   spicetify config SweetPastel
   spicetify apply
   ```
+  
+  ## Acknowledgements
+  
+  - Thanks to [``canbeardig``](https://github.com/canbeardig) for making the **Spicetify Orchis Theme**
