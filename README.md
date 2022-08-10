@@ -1,6 +1,8 @@
 # Spotify
 
-A fork of [orchis](https://github.com/canbeardig/Spicetify-Orchis-Colours-v2) with **Sweetpastel** colors.
+A fork of [orchis](https://github.com/canbeardig/Spicetify-Orchis-Colours-v2) with **SweetPastel** colors
+
+![image](https://user-images.githubusercontent.com/65948476/183907349-a1c2ac69-abb9-4d77-9098-61bcaa56dee6.png)
 
 ## Installation
 
@@ -38,7 +40,3 @@ Setup:
   spicetify config SweetPastel
   spicetify apply
   ```
-
-## Screenshots
-
-![image](https://user-images.githubusercontent.com/65948476/182006248-0fe33cd3-a1be-4d8f-a4e2-39ac8cb595eb.png)
