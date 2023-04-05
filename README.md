@@ -37,7 +37,7 @@ Setup:
 - Apply the theme
 
   ```sh
-  spicetify config SweetPastel
+  spicetify config current_theme SweetPastel
   spicetify apply
   ```
   
