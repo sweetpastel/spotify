@@ -44,7 +44,7 @@ setup:
 
   ```sh
   spicetify config SweetPastel
-  spicetify apply
+  spicetify backup apply
   ```
   
   ## acknowledgements
