@@ -13,28 +13,34 @@ requirements:
 
 setup:
  
-- clone this repository
+1. clone this repository
 
   ```sh
   git clone https://github.com/sweetpastel/spotify
   cd spotify
   ```
   
-- copy the theme into the themes folder. 
+2. copy the theme into the themes folder. 
   
-  gnu/linux | macOS: 
+  - gnu/linux: 
   
   ```sh
   cp -r SweetPastel ~/.config/spicetify/Themes/
   ```
+
+  - macOS:
+
+  ```sh
+  cp -r SweetPastel ~/spicetify_data/Themes/
+  ```
   
-  microsoft windows: 
+  - microsoft windows: 
   
   ```sh
   cp SweetPastel "$(spicetify -c | Split-Path)\Themes\"
   ```
 
-- apply the theme
+3. apply the theme
 
   ```sh
   spicetify config SweetPastel
