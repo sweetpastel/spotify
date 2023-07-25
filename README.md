@@ -43,8 +43,8 @@ setup:
 3. apply the theme
 
   ```sh
-  spicetify config SweetPastel
-  spicetify backup apply
+  spicetify config current_theme SweetPastel
+  spicetify apply
   ```
   
   ## acknowledgements
